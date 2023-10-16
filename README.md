@@ -1,1 +1,2 @@
-# Inventory_System
+# node_assignment
+NodeJS tutorial assignment
